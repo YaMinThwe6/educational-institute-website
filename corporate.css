@@ -1,0 +1,40 @@
+	    .wrapper2{
+		
+			display:grid;
+			grid-template-columns:1fr 1fr 1fr;
+			grid-gap:1em;
+		}
+		
+		.nested{
+		
+			display:grid;
+			margin-bottom:20px;
+		
+		}
+		
+		h5{
+		
+			margin:10px 0px 10px 0px;
+			color:#AB2526;
+		
+		}
+		
+		.ed{
+		
+			font-weight:520;
+			font-size:110%;
+		
+		}
+		
+		.headFeatures{
+			text-align:center;
+			font-size:40px;
+			padding:20px 0px;
+		}
+		
+		#card{
+		    display:grid;
+			grid-template-columns:1fr 1fr 1fr 1fr;
+			justify-items:center;
+			align-items:center;
+		}

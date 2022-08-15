@@ -1,0 +1,45 @@
+		   #joinUs{
+	       text-transform:uppercase;
+	       background:#C82333;
+	       padding:10px;
+	       border-radius:5px;
+	       font-size:30px;
+	       
+	   }
+	   
+	   #contact{
+	       font-size:20px;
+	       margin:20px 0;
+	   }
+	   
+	   .jumbotron{
+	        height:700px;
+	        background-image:url(review/career3.jpg);
+		    background-size:cover;
+		    background-position:center;
+			margin:0;
+	   }
+	   
+	   .intro{
+	       padding-top:120px;
+	   }
+	   
+	   .white_bar{
+	       margin-top:180px;
+	       background:white;
+	       height:100px;
+	       color:black;
+	   }
+	   
+	   .white_bar p{
+	       text-align:center;
+	       font-size:22px;
+	       padding:3px;
+	       background:white;
+	   }
+	   
+	   .white_bar h3{
+	       padding:3px;
+	       text-align:center;
+	       background:white;
+	   }

@@ -1,0 +1,61 @@
+		#signin{
+            
+            background:#AB2625;
+            padding:15px;
+            border: 1px solid black;
+            border-radius:15px;
+            width:100%;
+			color:white;
+    
+        }
+		
+		.btn{
+		
+			background:black;
+			color:white;
+			position:relative;
+			left:41%;
+		
+		}
+		
+		.marginTop{
+		
+			margin-top:20px;
+		
+		}
+		
+		.fa{
+		
+			font-size:30px;
+			margin-right:10px;
+		
+		}
+		
+		a{
+		    
+		    color:black;
+		    text-decoration:none;
+		    
+		}
+		
+		#imgMap{
+		
+			
+			margin:20px 0px 20px 0px;
+			border:1px solid black;
+			width:100%;
+			
+		}
+		
+		#contactFooter{
+		
+			background:#AB2526;
+			color:white;
+			
+		}	
+		
+		.fa-facebook-square,.fa-linkedin-square{
+		    
+		    font-size:35px !important;
+		    
+		}

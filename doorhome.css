@@ -1,0 +1,109 @@
+	    body{
+			padding:0;
+			margin:0;
+			font-family:'Helvetica',serif;
+			overflow-x:hidden;
+		}
+
+		.marginLeft{
+			margin-left:16px;
+			border-radius:5px;
+			color:black !important;
+			background:white;
+			width:199px;
+			text-align:center;
+			text-transform: uppercase;
+			font-weight:bold;
+			
+		}
+
+		#nav2{
+			background:#AB2526;
+			padding:15px;
+		}
+
+		#footerHead{
+		
+			text-align:center;
+			color:white;
+			font-weight:bold;
+			font-family:'Raleway',serif;
+		
+		}
+		
+		.wrapper1{
+		
+			display:grid;
+			grid-template-columns:1fr 1fr ;
+			margin-top:20px;
+			grid-columns-gap:1em;
+			justify-items:center;
+		}
+		
+		.footerMenu{
+		
+			color:white;
+			margin-top:20px;
+		
+		}
+		
+		#footerContact{
+		
+			font-size:105%;
+		
+		}
+
+		#nav2 a:hover{
+		
+			text-decoration:none;
+			color:black;
+			
+		}
+
+		.navBot{
+			color:white;
+		}
+		
+		.fontawesome{
+		
+			font-size:150%;
+			margin:5px;
+			color:white;
+		
+		}
+		
+		#footerContact{
+		
+			font-weight:550;
+		
+		}
+		
+		#address{
+		
+			margin-left:4em;
+		
+		}
+
+		#logo{
+		
+			max-width:100%;
+			height:auto;
+		}
+		
+		#bgC{
+			
+			background:white !important;
+			
+		}
+		
+		#bottomMenu{
+		    
+		    align-items:center !important;
+		    
+		}
+		
+		#contact{
+		    
+		    align-items:center !important;
+		    
+		}
