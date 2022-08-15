@@ -1,0 +1,51 @@
+		:root {
+
+ 			--animate-duration:3s;
+			--animate-delay:2s;
+
+		}
+		
+		#navBar{
+			background:transparent;
+		}
+
+		.container-fluid{
+			padding:0 !important;
+			margin:0;
+		}
+
+		.caption{
+
+			font-size:40px;
+			font-weight:bold;
+			background: rgba(255, 255, 255, 0.3);
+			color:black;
+			margin-bottom:5px;
+			
+		}
+
+		#create{
+
+			margin:20px 0px 20px 0px;
+		
+		}
+
+		#createPara{
+
+			font-size:20px;
+
+		}
+
+		#createHead{
+
+			text-align:center;
+			padding:20px 0px;
+
+		}	
+
+		.fixed-top.scrolled {
+
+  			background-color: #fff !important;
+			transition: background-color 500ms linear;
+
+		}

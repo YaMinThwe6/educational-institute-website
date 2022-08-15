@@ -1,0 +1,57 @@
+		.wrapper{
+		
+			display:grid;
+			grid-template-columns:1fr 1fr 1fr 1fr;
+			grid-gap:1em;
+			margin-top:20px;
+			margin-bottom:20px;
+			justify-items:center;
+		
+		}
+		
+		#research_and_developement{
+		
+			grid-column:2/4;
+			justify-items:center;
+		
+		}
+		
+		img {
+		
+			opacity:0.85;
+		
+		}
+		
+		img:hover{
+		
+			opacity:1;
+		
+		}
+		
+		.ima {
+		
+			text-align:center;
+			color:white;
+			font-weight:550;
+			background:black;
+			
+		}
+		
+		.headFeatures{
+			
+			text-align:center;
+			font-size:40px;
+			padding:20px 0px;
+		
+		}
+		
+		#more {display: none;}
+		
+		#myBtn{
+			
+			text-align:center;
+			color:white;
+			position:relative;
+			left:40%;
+			
+		}
